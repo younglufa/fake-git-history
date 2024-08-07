@@ -16,7 +16,7 @@ A command-line tool that generates GitHub or GitLab activity graph to make it lo
 3. Create [a private repository](https://github.com/new) called `my-history` in your GitHub or GitLab, and push the changes:
    ```shell script
    cd my-history
-   git remote add origin git@github.com:<USERNAME>/my-history.git
+   git remote add origin git@github.com:younglufa/my-history.git
    git push -u origin master
    ```
 
