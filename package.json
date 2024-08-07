@@ -8,7 +8,7 @@
     "src/cli.js",
     "src/index.js"
   ],
-  "repository": "git@github.com:artiebits/fake-git-history.git",
+  "repository": "git@github.com/younglufa/fake-git-history.git",
   "license": "MIT",
   "private": false,
   "scripts": {
